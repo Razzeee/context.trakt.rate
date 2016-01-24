@@ -29,7 +29,7 @@
     <summary lang="pl">Dodaje przycisk 'Trakt - Oceń' do menu kontekstowego biblioteki</summary>
     <summary lang="pt">Adicionar botão de classificação ao menu de contexto na biblioteca</summary>
     <summary lang="pt_BR">Adicionar botão de avaliação do Trakt para o menu de contexto na biblioteca</summary>
-    <description lang="en">Add Trakt rating button to context menu in library. Needs script.trakt installed and activated.</description>
+    <description lang="en">Add Trakt rating button to the context menu in your library.</description>
     <forum></forum>
     <source>https://github.com/Razzeee/context.trakt.rate</source>
   </extension>
