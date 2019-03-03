@@ -11,25 +11,25 @@
       </item>
     </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="de">Trakt-Bewertungsschaltfläche zum Kontextmenü in der Bibliothek hinzufügen</summary>
-    <summary lang="en">Add Trakt rating button to context menu in library</summary>
+    <summary lang="de_DE">Trakt-Bewertungsschaltfläche zum Kontextmenü in der Bibliothek hinzufügen</summary>
+    <summary lang="en_GB">Add Trakt rating button to context menu in library</summary>
     <summary lang="en_NZ">Add Trakt rating button to context menu in library</summary>
     <summary lang="en_US">Add Trakt rating button to context menu in library</summary>
-    <summary lang="fr">Ajouter le bouton d'évaluation trakt au menu contextuel dans la médiathèque</summary>
+    <summary lang="fr_FR">Ajouter le bouton d'évaluation trakt au menu contextuel dans la médiathèque</summary>
     <summary lang="fr_CA">Ajouter un bouton d'évaluation Trakt au menu contextuel de la vidéothèque</summary>
-    <summary lang="gl">Engadir o botón de valoración ao menú contextual da biblioteca</summary>
-    <summary lang="he">הוסף כפתור דירוג Trakt לתפריט הצדדי בספריה</summary>
-    <summary lang="hr">Dodaj tipku Trakt ocjene u kontekstni izbornik zbirke</summary>
-    <summary lang="hu">Trakt értékelés gomb a menüben</summary>
-    <summary lang="it">Aggiunge l'opzione "Vota" di Trakt al menu' contestuale della libreria.</summary>
-    <summary lang="ko">라이브러리 컨텍스트 메뉴에 Trakt 평가 버튼 추가</summary>
-    <summary lang="lt">Pridėti Trakt.tv reitingo mygtuką į bibliotekos kontekstinį meniu</summary>
-    <summary lang="nl">Voeg Trakt waardering knop naar context menu in bibliotheek</summary>
-    <summary lang="no">Legg til Trakt vurdering i bibliotekets hurtigmeny</summary>
-    <summary lang="pl">Dodaje przycisk 'Trakt - Oceń' do menu kontekstowego biblioteki</summary>
-    <summary lang="pt">Adicionar botão de classificação ao menu de contexto na biblioteca</summary>
+    <summary lang="gl_ES">Engadir o botón de valoración ao menú contextual da biblioteca</summary>
+    <summary lang="he_IL">הוסף כפתור דירוג Trakt לתפריט הצדדי בספריה</summary>
+    <summary lang="hr_HR">Dodaj tipku Trakt ocjene u kontekstni izbornik zbirke</summary>
+    <summary lang="hu_HU">Trakt értékelés gomb a menüben</summary>
+    <summary lang="it_IT">Aggiunge l'opzione "Vota" di Trakt al menu' contestuale della libreria.</summary>
+    <summary lang="ko_KR">라이브러리 컨텍스트 메뉴에 Trakt 평가 버튼 추가</summary>
+    <summary lang="lt_LT">Pridėti Trakt.tv reitingo mygtuką į bibliotekos kontekstinį meniu</summary>
+    <summary lang="nl_NL">Voeg Trakt waardering knop naar context menu in bibliotheek</summary>
+    <summary lang="nb_NO">Legg til Trakt vurdering i bibliotekets hurtigmeny</summary>
+    <summary lang="pl_PL">Dodaje przycisk 'Trakt - Oceń' do menu kontekstowego biblioteki</summary>
+    <summary lang="pt_PT">Adicionar botão de classificação ao menu de contexto na biblioteca</summary>
     <summary lang="pt_BR">Adicionar botão de avaliação do Trakt para o menu de contexto na biblioteca</summary>
-    <description lang="en">Add Trakt rating button to the context menu in your library.</description>
+    <description lang="en_GB">Add Trakt rating button to the context menu in your library.</description>
     <forum></forum>
     <source>https://github.com/Razzeee/context.trakt.rate</source>
   </extension>
