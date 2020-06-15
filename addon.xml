@@ -33,6 +33,7 @@
     <summary lang="pt_BR">Adicionar botão de avaliação do Trakt para o menu de contexto na biblioteca</summary>
     <description lang="en_GB">Add Trakt rating button to the context menu in your library.</description>
     <source>https://github.com/Razzeee/context.trakt.rate</source>
+    <license>GPL-2.0-or-later</license>
     <assets>
       <icon>icon.png</icon>
     </assets>
